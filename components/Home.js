@@ -22,7 +22,7 @@ const Home = ({ navigation }) => {
     console.log(e.data);
   }
   function handleQR() {
-    console.log('prees');
+   
     navigation.navigate('Qrcode')
   }
 

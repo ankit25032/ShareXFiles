@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "576843458257",
+    "firebase_url": "https://sharex-ca8a4-default-rtdb.firebaseio.com",
+    "project_id": "sharex-ca8a4",
+    "storage_bucket": "sharex-ca8a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576843458257:android:0d7b6269b5a0463ae747f0",
+        "android_client_info": {
+          "package_name": "com.sharexfiles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576843458257-0vo1dnl9eim8kij9ek0m43hm21l709r2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh91Pr5KRgrR2DUwnRuM3HElnxNovUQuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "576843458257-0vo1dnl9eim8kij9ek0m43hm21l709r2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

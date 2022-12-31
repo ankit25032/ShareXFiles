@@ -1,7 +1,9 @@
 import React from 'react'
-import { View, Text, ScrollView, } from 'react-native'
+import {ActivityIndicator ,View, Text, ScrollView, } from 'react-native'
+import File from './File';
 
 function Messages({ roomid, messages }) {
+
 
     return (
         <>
@@ -13,6 +15,7 @@ function Messages({ roomid, messages }) {
 
                     })}
                 </ScrollView>
+               
             </View>
         </>
     )

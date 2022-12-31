@@ -39,10 +39,8 @@ function QrCode({ navigation }) {
           onRead={onSuccess}
           ref={scanner}
           topContent={
-            <Text >
-              Go to
-              <Text >wikipedia.org/wiki/QR_code</Text> on
-              your computer and scan the QR code.
+            <Text style={{color:"white"}}>
+              Scan QR Code
             </Text>
           }
           bottomContent={
